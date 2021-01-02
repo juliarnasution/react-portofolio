@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Aplikasi ARSIP SURAT",
+        "img": "project1",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus rhoncus elementum. Fusce suscipit mattis nisl sed commodo. Sed porttitor mauris vitae orci egestas, in scelerisque turpis congue. Curabitur tempus quis lectus sed varius. Aliquam vulputate, quam eu vulputate finibus, orci nisi dictum nulla, vel suscipit nibh sem a nibh. Etiam blandit volutpat metus, at vehicula sem volutpat ut. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+        "link":"#"
+    },
+    {
+        "title": "Aplikasi SIJAFUNG",
+        "img": "project2",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus rhoncus elementum. Fusce suscipit mattis nisl sed commodo. Sed porttitor mauris vitae orci egestas, in scelerisque turpis congue. Curabitur tempus quis lectus sed varius. Aliquam vulputate, quam eu vulputate finibus, orci nisi dictum nulla, vel suscipit nibh sem a nibh. Etiam blandit volutpat metus, at vehicula sem volutpat ut. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum vel quam lorem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur iaculis, metus eget elementum congue, arcu odio finibus diam, sit amet viverra libero sapien eu mi. Nunc elementum laoreet dolor non maximus. Donec euismod sed justo id aliquam. Morbi rutrum rhoncus urna, ac pretium nisl mattis a. Morbi sem lorem, efficitur sed ex vitae, finibus vulputate est.",
+        "link":"#"
+    },
+    {
+        "title": "Aplikasi INVENTORY",
+        "img": "project3",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus rhoncus elementum. Fusce suscipit mattis nisl sed commodo. Sed porttitor mauris vitae orci egestas, in scelerisque turpis congue. Curabitur tempus quis lectus sed varius. Aliquam vulputate, quam eu vulputate finibus, orci nisi dictum nulla, vel suscipit nibh sem a nibh. Etiam blandit volutpat metus, at vehicula sem volutpat ut. Vestibulum vel quam lorem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur iaculis, metus eget elementum congue, arcu odio finibus diam, sit amet viverra libero sapien eu mi.",
+        "link":"#"
+    },
+    {
+        "title": "Aplikasi Manajemen Karyawan",
+        "img": "project4",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus rhoncus elementum. Fusce suscipit mattis nisl sed commodo. Sed porttitor mauris vitae orci egestas, in scelerisque turpis congue. Curabitur tempus quis lectus sed varius. Aliquam vulputate, quam eu vulputate finibus, orci nisi dictum nulla, vel suscipit nibh sem a nibh. Etiam blandit volutpat metus, at vehicula sem volutpat ut. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum vel quam lorem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur iaculis, metus eget elementum congue, arcu odio finibus diam, sit amet viverra libero sapien eu mi. Nunc elementum laoreet dolor non maximus. Donec euismod sed justo id aliquam. Morbi rutrum rhoncus urna, ac pretium nisl mattis a. Morbi sem lorem, efficitur sed ex vitae, finibus vulputate est.",
+        "link":"#"
+    }
+]

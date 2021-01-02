@@ -1,0 +1,28 @@
+[
+    {
+        "url":"#about",
+        "title":"About" 
+    },
+    {
+        "url":"#skill",
+        "title":"Skill" 
+    },
+    {
+        "target":"_blank",
+        "url":"http://juliarnasution.blogspot.com",
+        "title":"Blog" 
+    },
+    {
+        "url":"#projects",
+        "title":"Project" 
+    },
+    {
+        "url":"#contact",
+        "title":"Contact" 
+    },
+    {
+        "target":"_blank",
+        "url":"https://github.com/juliarnasution",
+        "title":"Github" 
+    }
+]
